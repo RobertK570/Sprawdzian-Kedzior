@@ -10,4 +10,6 @@ Jeżeli dobrze zrobiłem to strona jest hostowana na githubie
 ```bash
   https://robertk570.github.io/Sprawdzian-Kedzior/opinie.html
 ```
+[**KLIK**](https://robertk570.github.io/Sprawdzian-Kedzior/opinie.html)
+
 
