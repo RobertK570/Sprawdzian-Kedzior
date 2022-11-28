@@ -1,7 +1,8 @@
 
 # Hurtownia spożywcza [GRUPA A]
 
-Jeżeli dobrze zrobiłem to strona jest hostowana na githubie
+Jeżeli dobrze zrobiłem to strona jest hostowana na githubie.
+Tylko nie wiadomo czemu dodaje pasek do scrolla?!
 
 
 ## Link do strony
